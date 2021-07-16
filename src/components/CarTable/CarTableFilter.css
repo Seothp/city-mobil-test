@@ -1,0 +1,10 @@
+.cart-table-form {
+  display: flex;
+  padding: 8px 0;
+}
+
+.cart-table-input {
+  flex-grow: 1;
+  height: 24px;
+  margin-right: 8px;
+}
